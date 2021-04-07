@@ -18,37 +18,19 @@ namespace Lab5._1
 
         public string CharName
         {
-            get
-            {
-                return pCharName;
-            }
-
-            set
-            {
-                pCharName = value;
-            }
+            get {return pCharName;}
+            set {pCharName = value;}
         }
         public int  Strength
         {
-            get
-            {
-                return pStrength;
-            }
-            set
-            {
-                pStrength = value;
-            }
+            get {return pStrength;}
+            set {pStrength = value;}
         }
         public int Intelligence
         {
-            get
-            {
-                return pIntelligence;
-            }
+            get {return pIntelligence;}
             set
-            {
-                pIntelligence = value;
-            }
+            {pIntelligence = value;}
         }
         public virtual string Play()
         {
@@ -80,14 +62,8 @@ namespace Lab5._1
 
         public int magicalEnergy
         {
-            get
-            {
-                return MagicalEnergy;
-            }
-            set
-            {
-                MagicalEnergy = value;
-            }
+            get {return MagicalEnergy;}
+            set {MagicalEnergy = value;}
         }
 
         public override string Play()

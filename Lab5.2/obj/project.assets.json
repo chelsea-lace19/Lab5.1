@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\callen6\\dev\\Week5Labs\\Lab5.1\\Lab5.1.csproj",
-      "projectName": "Lab5.1",
-      "projectPath": "C:\\Users\\callen6\\dev\\Week5Labs\\Lab5.1\\Lab5.1.csproj",
+      "projectUniqueName": "C:\\Users\\callen6\\dev\\Week5Labs\\Lab5.2\\Lab5.2.csproj",
+      "projectName": "Lab5.2",
+      "projectPath": "C:\\Users\\callen6\\dev\\Week5Labs\\Lab5.2\\Lab5.2.csproj",
       "packagesPath": "C:\\Users\\callen6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\callen6\\dev\\Week5Labs\\Lab5.1\\obj\\",
+      "outputPath": "C:\\Users\\callen6\\dev\\Week5Labs\\Lab5.2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
